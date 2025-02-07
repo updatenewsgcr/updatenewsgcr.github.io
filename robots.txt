@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://updatenewsgcr.github.io/sitemap.xml
